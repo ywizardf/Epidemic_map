@@ -777,7 +777,7 @@ function getNightingaleRose(countryName,countrynowConfirm,countryDead){  //南�
      }
      //console.log(topData);
      myChart.setOption(option);
- }//现有确诊地区TOP5(扇形图)
+ }//现有确诊地区TOP15(扇形图)
 
 
 
