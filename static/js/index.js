@@ -716,7 +716,7 @@ function getNightingaleRose(countryName,countrynowConfirm,countryDead){  //南�
 
          backgroundColor: 'rgba(166,207,18,0)',
          title: {
-             text: '现有确诊国家TOP5',
+             text: '现有确诊国家TOP15',
              left: 'center',
              textStyle:{
                  fontSize:20,
